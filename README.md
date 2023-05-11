@@ -10,8 +10,6 @@ description: >-
 
 **MAGGOT** is a metadata management tool that addresses the problems of organising, documenting, storing and sharing data in a research unit or infrastructure, and fits perfectly into a structural data management plan.
 
-This tool is built around a web interface coupled with a MongoDB database.
-
 The web interface allows you to :
 
 * **Describe** a dataset using metadata of different types by facilitating their entry and avoiding their re-entry thanks to personalized dictionaries (Description)
